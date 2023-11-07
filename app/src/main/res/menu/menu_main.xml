@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bawp.kitchenInventory.MainActivity">
+
+    <item
+        android:id="@+id/action_grocery_list"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:title="Grocery Lust"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_recipes"
+        android:icon="@drawable/ic_baseline_recipe"
+        android:title="@string/recipe_recommendations"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_connect"
+        android:icon="@drawable/ic_baseline_bluetooth_connected_24"
+        android:title="Bluetooth Connection"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Kitchen Inventory</string>
+    <string name="action_settings">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_description">Testing this thing..</string>
+    <string name="tv_title">Title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_product_hint">e.g., Rice, pasta, flour </string>
+    <string name="today_calendar_button">Today</string>
+    <string name="empty_field">Empty product</string>
+    <string name="expiry_date_text">Expiry Date</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="this_wknd">This Weekend</string>
+    <string name="next_week">Next Week</string>
+    <string name="radio_dairy">Dairy &amp; Eggs</string>
+    <string name="radio_dry">Dry Goods</string>
+    <string name="radio_spices">Spices &amp; Herbs</string>
+    <string name="image_description">button image</string>
+    <string name="about_text">Kitchen Inventory App</string>
+    <string name="add_todos">Add a Product...</string>
+    <string name="add_product">Add product</string>
+    <string name="recipe_recommendations">Recipe Recommendation</string>
+    <string name="category">Category</string>
+</resources>
